@@ -23,7 +23,7 @@ This Power BI project provides an interactive analysis of the *Global Superstore
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/global-superstore-analysis.git
+   git clone https://github.com/JayS1401/global-superstore-analysis.git
    ```
 2. Open the Power BI file (`.pbix`) in Power BI Desktop.
 3. Explore the dashboard and adjust filters for custom insights.
